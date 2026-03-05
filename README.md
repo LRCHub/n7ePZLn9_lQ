@@ -1,58 +1,50 @@
-# NewJeans – Super Shy
+# NewJeans - トピック – New Jeans
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:12.98] I'm super shy, super shy
-[00:14.93] But wait a minute while I make you mine, make you mine
-[00:18.17] 떨리는 지금도 you're on my mind all the time
-[00:21.45] I wanna tell you but I'm super shy, super shy
-[00:43.95] 
-[00:25.69] I'm super shy, super shy
-[00:27.82] But wait a minute while I make you mine, make you mine
-[00:30.96] 떨리는 지금도 you're on my mind all the time
-[00:34.07] I wanna tell you but I'm super shy, super shy
-[00:56.57] 
-[00:38.15] And I wanna go out with you, where you wanna go? (Huh?)
-[00:40.36] Find a lil' spot, just sit and talk
-[00:41.80] Looking pretty, follow me, 우리 둘이 나란히
-[00:45.27] 보이지? 내 눈이 갑자기 빛나지 when you say I'm your dream
-[01:07.77] 
-[00:51.43] You don't even know my name, do you?
-[00:57.80] You don't even know my name, do you?
-[01:02.77] 누구보다도
-[01:05.27] 
-[01:04.15] I'm super shy, super shy
-[01:06.12] But wait a minute while I make you mine, make you mine
-[01:09.40] 떨리는 지금도 you're on my mind all the time
-[01:12.55] I wanna tell you but I'm super shy, super shy
-[01:35.05] 
-[01:16.91] I'm super shy, super shy
-[01:18.87] But wait a minute while I make you mine, make you mine
-[01:22.11] 떨리는 지금도 you're on my mind all the time
-[01:25.36] I wanna tell you but I'm super shy, super shy
-[01:47.86] 
-[01:29.78] 나 원래 말도 잘하고 그런데 왜 이런지?
-[01:32.69] I don't like that
-[01:36.27] Something odd about you, yeah, you're special and you know it
-[01:39.10] You're the top, babe
-[01:49.10] 
-[01:42.43] I'm super shy, super shy
-[01:44.51] But wait a minute while I make you mine, make you mine
-[01:47.71] 떨리는 지금도 you're on my mind all the time
-[01:50.88] I wanna tell you but I'm super shy, super shy
-[02:13.38] 
-[01:55.30] I'm super shy, super shy
-[01:57.35] But wait a minute while I make you mine, make you mine
-[02:00.65] 떨리는 지금도 you're on my mind all the time
-[02:03.75] I wanna tell you but I'm super shy, super shy
-[02:26.25] 
-[02:08.35] You don't even know my name, do you?
-[02:14.69] You don't even know my name, do you?
-[02:19.62] 누구보다도
-[02:22.12] 
-[02:20.93] You don't even know my name (super shy, super shy)
-[02:23.83] Do you? (Make you mine, make you mine)
-[02:27.48] You don't even know my name (you're on my mind all the time, I wanna tell you)
-[02:30.34] Do you? (But I'm super shy, I'm super shy)
+[00:14.88] Look, it's a new me
+[00:16.57] Switched it up, who's this?
+[00:18.55] 우릴 봐 NewJeans
+[00:20.10] So fresh, so clean
+[00:22.63] 얼마나, 기다렸던 날
+[00:26.14] 드디어, time to step out
+[00:29.76] 또 한 번 더
+[00:31.49] Ready for sure to have some more
+[00:47.49] 
+[00:36.38] New hair, new tee
+[00:38.10] NewJeans, do you see?
+[00:39.99] New hair, new tee
+[00:41.66] NewJeans, do you see?
+[00:43.44] New hair, new tee
+[00:45.19] NewJeans, do you see?
+[00:47.09] New hair, new tee
+[00:48.83] NewJeans, do you see?
+[00:59.33] 
+[00:50.40] Make it feel like a game
+[00:52.26] Look at us, we go on and on again
+[00:54.09] We'll go on to the end
+[00:55.87] What we wanna do, on and on again
+[00:57.89] Make it feel like a game
+[00:59.44] Look at us, we go on and on again
+[01:01.30] We'll go on to the end
+[01:02.91] What we wanna do, on and on again
+[01:19.41] 
+[01:05.09] Look, it's a new me
+[01:06.81] Switched it up, who's this?
+[01:08.62] 들어봐 NewJeans
+[01:10.50] So fresh, so clean
+[01:12.83] 얼마나, 기다렸던 날
+[01:16.46] 드디어, feeling's so right
+[01:19.90] 또 한 번 더
+[01:21.62] I need to know, you want some more
+[01:38.62] 
+[01:26.52] New hair, new tee
+[01:28.35] NewJeans, you and me
+[01:30.22] New hair, new tee
+[01:31.86] NewJeans, you and me
+[01:33.70] New hair, new tee
+[01:35.39] NewJeans, you and me
+[01:37.35] New hair, new tee
+[01:39.08] NewJeans, you and me
 ```
