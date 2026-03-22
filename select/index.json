@@ -1,152 +1,273 @@
 {
   "version": 1,
-  "base_track": "New Jeans",
-  "base_artist": "NewJeans - トピック",
-  "createdAt": "2026-03-05T14:51:14.305699Z",
+  "base_track": "Super Shy",
+  "base_artist": "NewJeans",
+  "createdAt": "2026-03-22T05:54:17.487910Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/01_New_Jeans_NewJeans.lrc"
+      "path": "select/01_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/02_New_Jeans_NewJeans.lrc"
+      "path": "select/02_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/03_New_Jeans_NewJeans.lrc"
+      "path": "select/03_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/04_New_Jeans_NewJeans.lrc"
+      "path": "select/04_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/05_New_Jeans_NewJeans.lrc"
+      "path": "select/05_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/06_New_Jeans_NewJeans.lrc"
+      "path": "select/06_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/07_New_Jeans_NewJeans.lrc"
+      "path": "select/07_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/08_New_Jeans_NewJeans.lrc"
+      "path": "select/08_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/09_New_Jeans_NewJeans.lrc"
+      "path": "select/09_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/10_New_Jeans_NewJeans.lrc"
+      "path": "select/10_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/11_New_Jeans_NewJeans.lrc"
+      "path": "select/11_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/12_New_Jeans_NewJeans.lrc"
+      "path": "select/12_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "New Jeans",
-      "artist": "New Jeans",
+      "title": "Super Shy",
+      "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/13_New_Jeans_New_Jeans.lrc"
+      "path": "select/13_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": true,
-      "path": "select/14_New_Jeans_NewJeans.lrc"
+      "path": "select/14_Super_Shy_NewJeans.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "NEW JEANS",
-      "artist": "SEBii",
+      "title": "Super Freaky Girl",
+      "artist": "Nicki Minaj",
       "has_synced": true,
-      "path": "select/15_NEW_JEANS_SEBii.lrc"
+      "path": "select/15_Super_Freaky_Girl_Nicki_Minaj.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "New Jeans",
-      "artist": "NewJeans (뉴진스)",
+      "title": "Super Gremlin",
+      "artist": "Kodak Black",
       "has_synced": true,
-      "path": "select/16_New_Jeans_NewJeans_(뉴진스).lrc"
+      "path": "select/16_Super_Gremlin_Kodak_Black.lrc"
     },
     {
       "id": "lrclib_17",
       "source": "lrclib",
-      "title": "New Jeans (Jersey Club)",
-      "artist": "Dxrkaii",
+      "title": "Scary Monsters (And Super Creeps)",
+      "artist": "David Bowie",
       "has_synced": false,
-      "path": "select/17_New_Jeans_(Jersey_Club)_Dxrkaii.txt"
+      "path": "select/17_Scary_Monsters_(And_Super_Creeps)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Super Evil",
+      "artist": "Die Antwoord",
+      "has_synced": false,
+      "path": "select/18_Super_Evil_Die_Antwoord.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Super Stars",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/19_Super_Stars_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Super Saiyan",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/20_Super_Saiyan_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Super Bass",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/21_Super_Bass_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Super Highways",
+      "artist": "The Other Two",
+      "has_synced": false,
+      "path": "select/22_Super_Highways_The_Other_Two.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Super-Duper-Man",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/23_Super-Duper-Man_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Super Electric - Original Version",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/24_Super_Electric_-_Original_Version_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Super Cell",
+      "artist": "Trippie Redd",
+      "has_synced": true,
+      "path": "select/25_Super_Cell_Trippie_Redd.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Super Sharp Shooter",
+      "artist": "The Ganja Kru",
+      "has_synced": false,
+      "path": "select/26_Super_Sharp_Shooter_The_Ganja_Kru.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Super Slimey",
+      "artist": "Yak Gotti",
+      "has_synced": false,
+      "path": "select/27_Super_Slimey_Yak_Gotti.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Super Crook Blues",
+      "artist": "Sigue Sigue Sputnik",
+      "has_synced": false,
+      "path": "select/28_Super_Crook_Blues_Sigue_Sigue_Sputnik.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Super Life",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/29_Super_Life_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Super Overdrive",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/30_Super_Overdrive_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Altamont Super - Highway Revisited",
+      "artist": "Apollo 440",
+      "has_synced": false,
+      "path": "select/31_Altamont_Super_-_Highway_Revisited_Apollo_440.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "New Jeans",
+      "title": "Super Shy",
       "artist": "NewJeans",
       "has_synced": false,
-      "path": "select/pl_01_New_Jeans_NewJeans.txt"
+      "path": "select/pl_01_Super_Shy_NewJeans.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Super Shy",
+      "artist": "NewJeans",
+      "has_synced": true,
+      "path": "select/localdb_01_Super_Shy_NewJeans.lrc",
+      "repo_name": "ArmDp-zijuc"
     }
   ]
 }
